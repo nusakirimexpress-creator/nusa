@@ -222,7 +222,7 @@ export default function App() {
   const promoBanners = [
     {
       id: 1,
-      image: '/src/assets/images/ternate_sofifi_banner_1782930714887.jpg',
+      image: '/src/assets/images/ternate_sofifi_banner_1782930714887.png',
       badge: lang === 'ID' ? 'PROMO UTAMA' : '主要促销',
       title: lang === 'ID' ? 'Hemat Ongkir Ternate - Sofifi' : '特尔纳特 - 索菲菲 运费超省',
       highlight: lang === 'ID' ? 'Mulai dari 30.000' : '3万印尼盾起',
@@ -230,7 +230,7 @@ export default function App() {
     },
     {
       id: 2,
-      image: '/src/assets/images/safe_package_banner_1782930729115.jpg',
+      image: '/src/assets/images/safe_package_banner_1782930729115.png',
       badge: lang === 'ID' ? 'GARANSI KEAMANAN' : '安全保证',
       title: lang === 'ID' ? 'Pengiriman Aman & Rapi' : '安全整洁的递送',
       highlight: lang === 'ID' ? 'Ekstra Aman' : '额外安全',
@@ -238,7 +238,7 @@ export default function App() {
     },
     {
       id: 3,
-      image: '/src/assets/images/courier_island_banner_1782930747015.jpg',
+      image: '/src/assets/images/courier_island_banner_1782930747015.png',
       badge: lang === 'ID' ? 'SAMEDAY SERVICE' : '当日达服务',
       title: lang === 'ID' ? 'Satu Hari Sampai (Sameday)' : '一日送达 (当日达)',
       highlight: lang === 'ID' ? 'Tiap Hari Kirim' : '每日发车',
